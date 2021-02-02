@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+NIT Patna '22 | ECE | She/her | Web Developer
+ 
+ #### Notable Projects - 
+  * EY CheckList - Made for EY GDS Hackpions and bagged the first prize! 
+  * Caim Consulting
+  * Calorie Calculator
+  * Vistara App
+
+Looking for internships in Summer '21
+ 
+Feel free to contact me on : [LinkedIn](https://www.linkedin.com/in/aditi-anshu-2202a3194) 
+
+
 <!--
 **aditianshu/aditianshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
