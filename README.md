@@ -43,7 +43,7 @@ Looking for internships - Summer '21
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  
-How to reach me: : [LinkedIn](https://www.linkedin.com/in/aditi-anshu-2202a3194) | [E-mail](mailto:aditianshu09@gmail.com)
+How to reach me: : [LinkedIn](https://www.linkedin.com/in/aditi-anshu-2202a3194) | aditianshu09@gmail.com
 
 
 <!--
