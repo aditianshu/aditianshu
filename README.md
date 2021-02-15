@@ -1,16 +1,49 @@
 ### Hi there 👋
 
 NIT Patna '22 | ECE | She/her | Web Developer
+
+<br>
+ <a href="https://www.linkedin.com/in/aditi-anshu-2202a3194" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/anshu_aditi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<br>
+
+ 
+View my **[resume](https://drive.google.com/file/d/1wEU7Wg7igSvn7nek2ryQipQ78OG0VSEt/view?usp=sharing)**, 
+Ask me anything **[here](https://www.linkedin.com/in/aditi-anshu-2202a3194)**, 
+or **[email](mailto:aditianshu09@gmail.com)** me. 
+<br>
+
+- 🔭 I’m currently working on my BTech Project on Classification and Localization of abnormalities in chest X-Rays.
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on any new/exciting hackathons!
+- 💬 Ask me about: A-Frame/React JS
+- 📫 How to reach me: [email](mailto:aditianshu09@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Huge anime nerd xD
+ 
  
  #### Notable Projects - 
-  * EY CheckList - Made for EY GDS Hackpions and bagged the first prize! 
-  * Caim Consulting
-  * Calorie Calculator
-  * Vistara App
+  * EY CheckList - Made for EY GDS Hackpions and bagged the first prize | [Demo Video](https://youtu.be/txN98IHSNHE) 
+  * Caim Consulting |  [Link](https://www.caimconsulting.in/)
+  * Vistara App - Won the first prize in Tata Crucible Hackathon '20 
+  
 
-Looking for internships in Summer '21
+Looking for internships - Summer '21
+
+<h3><strong>Languages and Tools that I use</strong></h3>  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
  
-Feel free to contact me on : [LinkedIn](https://www.linkedin.com/in/aditi-anshu-2202a3194) 
+How to reach me: : [LinkedIn](https://www.linkedin.com/in/aditi-anshu-2202a3194) | [E-mail](mailto:aditianshu09@gmail.com)
 
 
 <!--
