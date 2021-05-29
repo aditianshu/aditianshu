@@ -13,7 +13,7 @@ Ask me anything **[here](https://www.linkedin.com/in/aditi-anshu-2202a3194)**,
 or **[email](mailto:aditianshu09@gmail.com)** me. 
 <br>
 
-- 🔭 I’m currently working on my BTech Project on Classification and Localization of abnormalities in chest X-Rays.
+- 🔭 I’m currently working at my internship at American Express.
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any new/exciting hackathons!
 - 💬 Ask me about: A-Frame/React JS
@@ -28,7 +28,6 @@ or **[email](mailto:aditianshu09@gmail.com)** me.
   * Vistara App - Won the first prize in Tata Crucible Hackathon '20 
   
 
-Looking for internships - Summer '21
 
 <h3><strong>Languages and Tools that I use</strong></h3>  
 
