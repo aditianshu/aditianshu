@@ -8,8 +8,8 @@ NIT Patna '22 | ECE | She/her | Web Developer
 <br>
 
  
-View my **[resume](https://drive.google.com/file/d/1wEU7Wg7igSvn7nek2ryQipQ78OG0VSEt/view?usp=sharing)**, 
-Ask me anything **[here](https://www.linkedin.com/in/aditi-anshu-2202a3194)**, 
+View my **[resume](https://drive.google.com/file/d/112jL8x3sMexSrprmrxh0yFLZtTQHsCu_/view?usp=sharing)**, 
+Ask me anything **[here](https://www.linkedin.com/in/aditianshu09/)**, 
 or **[email](mailto:aditianshu09@gmail.com)** me. 
 <br>
 
