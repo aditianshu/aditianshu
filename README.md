@@ -8,7 +8,7 @@ NIT Patna '22 | ECE | She/her | Web Developer
 <br>
 
  
-View my **[resume](https://drive.google.com/file/d/112jL8x3sMexSrprmrxh0yFLZtTQHsCu_/view?usp=sharing)**, 
+View my **[resume](https://drive.google.com/file/d/1l0aSOdl_46syfV1_FCcUNPsJnfW87MNm/view?usp=sharing)**, 
 Ask me anything **[here](https://www.linkedin.com/in/aditianshu09/)**, 
 or **[email](mailto:aditianshu09@gmail.com)** me. 
 <br>
@@ -23,6 +23,7 @@ or **[email](mailto:aditianshu09@gmail.com)** me.
  
  
  #### Notable Projects - 
+  * EY DASH - Made for EY GDS Hackpions 3.0 and got the first prize | [Link] (https://dash-13d31.web.app/#/)
   * EY CheckList - Made for EY GDS Hackpions and bagged the first prize | [Demo Video](https://youtu.be/txN98IHSNHE) 
   * Caim Consulting |  [Link](https://www.caimconsulting.in/)
   * Vistara App - Won the first prize in Tata Crucible Hackathon '20 
@@ -42,7 +43,7 @@ or **[email](mailto:aditianshu09@gmail.com)** me.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  
-How to reach me: : [LinkedIn](https://www.linkedin.com/in/aditi-anshu-2202a3194) | aditianshu09@gmail.com
+How to reach me: : [LinkedIn](https://www.linkedin.com/in/aditianshu09) | aditianshu09@gmail.com
 
 
 <!--
