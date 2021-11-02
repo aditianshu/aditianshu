@@ -23,7 +23,7 @@ or **[email](mailto:aditianshu09@gmail.com)** me.
  
  
  #### Notable Projects - 
-  * EY DASH - Made for EY GDS Hackpions 3.0 and got the first prize | [Link] (https://dash-13d31.web.app/#/)
+  * EY DASH - Made for EY GDS Hackpions 3.0 and got the first prize | [Link](https://dash-13d31.web.app/#/)
   * EY CheckList - Made for EY GDS Hackpions and bagged the first prize | [Demo Video](https://youtu.be/txN98IHSNHE) 
   * Caim Consulting |  [Link](https://www.caimconsulting.in/)
   * Vistara App - Won the first prize in Tata Crucible Hackathon '20 
